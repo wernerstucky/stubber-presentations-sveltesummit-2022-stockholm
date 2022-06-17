@@ -1,6 +1,12 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Presentation Proposal Svelte Summit Stockholm 2022
 
-To start the slide show:
+### By Werner Stucky
+
+#### Made with the amazing : [Slidev](https://github.com/slidevjs/slidev)!
+
+
+
+To start the slide show :
 
 - `npm install`
 - `npm run dev`
