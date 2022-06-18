@@ -28,7 +28,6 @@ Svelte Writable Derived Stores, Yjs, Websockets
 By Werner Stucky - CEO Stubber.com
 
 <div class="pt-12">
-  <a href="https://github.com/wernerstucky/stubber-presentations-sveltesummit-2022-stockholm">GitHub</a><br>
 
   <a href="[link to live slides]">Live Link</a>
 </div>
@@ -37,7 +36,7 @@ By Werner Stucky - CEO Stubber.com
   <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <carbon:edit />
   </button>
-  <a href="https://github.com/slidevjs/slidev" target="_blank" alt="GitHub"
+  <a href="https://github.com/wernerstucky/stubber-presentations-sveltesummit-2022-stockholm" target="_blank" alt="GitHub"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-github />
   </a>
