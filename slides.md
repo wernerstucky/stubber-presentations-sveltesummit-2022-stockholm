@@ -19,6 +19,8 @@ drawings:
   persist: false
 #testing 123
 #Diagram at : https://docs.google.com/drawings/d/18Zx6BLsr5Ay_jCoxsNwV6r4pNMgMh9Ng7iv3ulzobhM/edit
+layout: cover
+background: https://images.unsplash.com/photo-1581007156996-99fe0ece1d9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80
 ---
 
 # Collaboration = 
@@ -28,15 +30,13 @@ Svelte Writable Derived Stores, Yjs, Websockets
 
 By Werner Stucky - CEO Stubber.com
 
-<div class="pt-12">
+# DRAFT - DRAFT - DRAFT
 
+<div class="pt-12">
   <a href="[link to live slides]">Live Link</a>
 </div>
 
 <div class="abs-br m-6 flex gap-2">
-  <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
-    <carbon:edit />
-  </button>
   <a href="https://github.com/wernerstucky/stubber-presentations-sveltesummit-2022-stockholm" target="_blank" alt="GitHub"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-github />
