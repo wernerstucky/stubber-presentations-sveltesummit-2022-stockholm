@@ -32,9 +32,7 @@ By Werner Stucky - CEO Stubber.com
 
 # DRAFT - DRAFT - DRAFT
 
-<div class="pt-12">
-  <a href="[link to live slides]">Live Link</a>
-</div>
+[Live Link](https://stubber-presentations-sveltesummit-2022-stockholm.vercel.app)
 
 <div class="abs-br m-6 flex gap-2">
   <a href="https://github.com/wernerstucky/stubber-presentations-sveltesummit-2022-stockholm" target="_blank" alt="GitHub"
